@@ -25,4 +25,4 @@ The Android 1.5 Branch contains a 1.5 version of PhoneGap.  This should
 be used for carriers who do not currently have Android 1.6 or newer devices
 offered.
 
-
+Hey, we have an edit
